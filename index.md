@@ -18,6 +18,7 @@ Syntax highlighted code block
 - No exams
 - Instructors are very nice
 - Instructors are very chill and lenient
+- Not a very long class
 
 
 1. Numbered
